@@ -1,2 +1,2 @@
 # WorldBarrer
- A world barrer plugin 
+ In development !
