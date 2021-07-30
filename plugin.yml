@@ -1,0 +1,15 @@
+name: WorldBarrer
+author: PiloudeDakar
+api: 3.0.0
+version: 1.0
+main: PiloudeDakar\WorldBarrer\Main
+
+commands:
+  tirelire_add:
+    usage: tirelire_add
+    aliases:
+      - trlr
+      - argent
+    description: ajoute un bloc de tirelire
+  tirelire_position:
+    usage: tirelire_position
